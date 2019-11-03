@@ -1,0 +1,6 @@
+framework module Pods_iNeed {
+  umbrella header "Pods-iNeed-umbrella.h"
+
+  export *
+  module * { export * }
+}

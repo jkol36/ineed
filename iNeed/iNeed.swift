@@ -1,0 +1,31 @@
+//
+//  iNeed.swift
+//  iNeed
+//
+//  Created by Dezmond Payne on 5/31/19.
+//  Copyright © 2019 Chcek Mate TV. All rights reserved.
+//
+
+import UIKit
+
+class iNeed: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+
+    @IBOutlet weak var textPicBox: UIImageView!
+    /*
+    // MARK: - Navigation
+
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // Get the new view controller using segue.destination.
+        // Pass the selected object to the new view controller.
+    }
+    */
+
+}
